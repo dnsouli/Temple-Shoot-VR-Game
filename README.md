@@ -10,6 +10,10 @@ This game was developed for the following platforms. Each platform contains a do
 * [MAC](https://drive.google.com/file/d/1JfoSZjZgCpdKGRGPGyDNT5-hCh5n5T-V/view?usp=sharing)
 * [PC](https://drive.google.com/file/d/10w8NarQDAR9hEejZ8UKy_lH4GiIsC9qf/view?usp=sharing)
 
+### Game Controls
+
+Diagrams that display a visualization of the controls for the VR and desktop versions of the game can be found [here](Game_Controls_Diagram.pdf).
+
 ## Game Description
 
 The story revolves around a temple arena in the middle of a jungle that has been cursed by spirits that have taken the form of evil masks. In order to lift the curse, the player must find and physically destroy the masks with their trusty handgun. In order to summon the masks, the player must step on each of the colored skull platforms. The curse has also risen some bodies from the dead in the form of skeleton warriors that will hunt the player down around the map while the player tries to reach each platform.
