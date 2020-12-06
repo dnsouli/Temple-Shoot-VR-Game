@@ -24,4 +24,4 @@ Once the player reaches a colored platform, a barrier will appear along with ano
 
 ### Instructional Video and Gameplay Trailer
 
-For further instruction, please watch my gameplay trailer and overview video. This video can either be watched on [YouTube](https://www.youtube.com/watch?v=Q81lpjwDEvI&feature=youtu.be) or downloaded [here](https://drive.google.com/file/d/1D1JQgr_v9sh3IZL0kYt9XAJZM32juXnY/view?usp=sharing).
+For further instruction, please watch my gameplay trailer and overview video. This video can either be watched on [YouTube](https://www.youtube.com/watch?v=Q81lpjwDEvI&feature=youtu.be) or downloaded from this repository.
